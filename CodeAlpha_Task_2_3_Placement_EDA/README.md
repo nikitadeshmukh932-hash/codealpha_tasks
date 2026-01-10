@@ -119,4 +119,4 @@ This project fully satisfies **CodeAlpha Task 2 and Task 3 requirements** and st
 ---
 
 ## 👤 Author
-Vedika Divakar Bawkar
+Nikita Deshmukh
